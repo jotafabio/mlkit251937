@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665460946105",
+    "firebase_url": "https://composite-bruin-275411.firebaseio.com",
+    "project_id": "composite-bruin-275411",
+    "storage_bucket": "composite-bruin-275411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665460946105:android:66fbfef771bdf33d399768",
+        "android_client_info": {
+          "package_name": "pl.edu.pwr.labx.i251937.firebasemlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665460946105-hkr3ljkvpsh9ln6sljh4b9tkjcns1r7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2sfQBBynXh8GhAJ1P2fwX-1oP20h0xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665460946105-hkr3ljkvpsh9ln6sljh4b9tkjcns1r7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
